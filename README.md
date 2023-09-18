@@ -23,4 +23,4 @@ Telegram Bot for download video and audio from YouTube (max 50 MB).
 - /audio - download audio from YouTube (send url and get audio to save on your phone)
 ---
 #### Before start project necessary create virtualenv ".env" with bot token
-- TOKEN = <"your token">
+- TOKEN = \<your token\>
